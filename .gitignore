@@ -1,0 +1,17 @@
+# Editor / temporary files
+*~
+*.swp
+*.swo
+*.tmp
+*.bak
+
+# Runtime/cache
+*.log
+*.pid
+.cache/
+
+# Secrets / local overrides
+.env
+.env.*
+*.pem
+*.key
