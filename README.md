@@ -1,4 +1,26 @@
-# Post-Apollo Fastfetch
+✦︎✦︎✦︎ Meta Apollo Logos //
+
+# 🖳 POST-APOLLO // FASTFETCH
+
+![](BUILD/assets/design/chassis/focus-rail.svg)
+
+> **STATE //** active \~\~ **VIEW //** terminal system-information surface
+
+> **Post-Apollo Fastfetch contains the live Fastfetch configuration and terminal identity artwork for the desktop environment.**
+
+### 🧭 MAP // REPOSITORY
+
+![](BUILD/assets/design/chassis/nav-rail.svg)
+
+// [🧭 ATLAS](./ATLAS/) \~\~ // [✮˙๋࣭⭑ MODEL](./MODEL/) \~\~ // [🖨 BUILD](./BUILD/) \~\~ // [⚒ DEV](./DEV/) \~\~ // [🖳 OPERATE](./OPERATE/) \~\~ // [⊹ ࣪ℼ˖ EVIDENCE](./EVIDENCE/) \~\~ // [࣪⋅˚🕮‧₊˚ ARCHIVE](./ARCHIVE/)
+
+---
+
+### ★⋆˙ CORE // RUNTIME LAYOUT
+
+Fastfetch's configuration and artwork stay at the repository root because they map directly to the live Fastfetch directory.
+
+---
 
 Fastfetch configuration used by the Post-Apollo environment.
 
