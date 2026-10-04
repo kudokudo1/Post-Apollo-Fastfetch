@@ -4,9 +4,13 @@
 
 ![](BUILD/assets/design/chassis/focus-rail.svg)
 
+![Fastfetch // Post-Apollo](./BUILD/assets/design/fastfetch-banner.svg)
+
 > **STATE //** active \~\~ **VIEW //** terminal system-information surface
 
-> **Post-Apollo Fastfetch contains the live Fastfetch configuration and terminal identity artwork for the desktop environment.**
+The terminal identity surface of the Post-Apollo Family — shaping the relationship between operator, terminal, system, hardware, identity, and expression, turning raw system information into a readable self-portrait of the machine and the environment it is currently operating within.
+
+**FAMILY //** [META APOLLO LOGOS](https://github.com/kudokudo1/Meta-Apollo-Logos) · [DEV EXP](https://github.com/kudokudo1/The-Post-Apollo-Dev-Exp) · [FOREST](https://github.com/kudokudo1/The-Post-Apollo-Forest-Project) · [TASKBARS](https://github.com/kudokudo1/taskbars-post-apollo)
 
 ### 🧭 MAP // REPOSITORY
 
