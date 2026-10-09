@@ -41,6 +41,12 @@ Fastfetch configuration used by the Post-Apollo environment.
 The initial Git baseline intentionally preserves the current known-working
 state before any cleanup or consolidation.
 
+## Upstream provenance
+
+The active Fastfetch presentation is a Post-Apollo adaptation of **SoupCat-Py/fastfetch-configs**, especially its `mac.jsonc` configuration and `macintosh.txt` artwork. The Post-Apollo version changes colors, formatting, selected output behavior, media presentation, and branding while preserving a substantial part of the upstream structure.
+
+See [THIRD_PARTY_NOTICE.md](./THIRD_PARTY_NOTICE.md) for the exact lineage and licensing boundary.
+
 ## Development policy
 
 Preserve first, clean later.
