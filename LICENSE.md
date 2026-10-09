@@ -26,6 +26,8 @@ Brand assets described below are excluded from that grant unless expressly marke
 
 Third-party, inherited, vendored, generated, archived, or separately licensed material keeps its own license and notices. Nothing here removes rights already granted by another applicable license or by law.
 
+For this repository specifically, `config.jsonc`, `config.jsonc.save`, and `icon` contain substantial material adapted from **SoupCat-Py/fastfetch-configs**. See [THIRD_PARTY_NOTICE.md](./THIRD_PARTY_NOTICE.md) for source and provenance details. These inherited portions are not relicensed by this Post-Apollo notice.
+
 ## COMMUNITY
 
 Meta Apollo is interested in relationships between people, tools, machines, ideas, environments, and the things we build together.
